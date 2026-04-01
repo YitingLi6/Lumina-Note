@@ -1,0 +1,4 @@
+{$LUMINA_DOMAIN} {
+  encode gzip zstd
+  reverse_proxy lumina-server:8787
+}

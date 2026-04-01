@@ -1,0 +1,7 @@
+{
+  "name": "@lumina/plugin-api",
+  "version": "0.1.0",
+  "description": "Type definitions for Lumina plugin runtime API",
+  "private": true,
+  "types": "index.d.ts"
+}
